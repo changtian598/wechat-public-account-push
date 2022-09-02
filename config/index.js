@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "5b5d70daed8017b901e3f4fcb73a3d8d",
 
     // 模板消息id
-    TEMPLATE_ID: "_-BrqDh9DZW6TlntQ0zAABo7aUoeE-bHD1KoDln4w4c",
+    TEMPLATE_ID: "uThtAXZa3a2FrRRUN4ymXEfWRaZ4rz7I1NaBUdqlboE",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "eEG--XgU1OOCmfk7QUSgUKxgDCXwqxQ6ZvITBVKKu2g",
@@ -24,7 +24,7 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '宝贝', id: "oCP2Z6CB6IzDeRV0fnV-EMRmvo3I"}
+      {name: '宝贝', id: "oCP2Z6LmDqXCMmq8JtmbYv3iO7mU"}
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
@@ -87,7 +87,7 @@ export const config = {
       {"keyword": "lover_prattle", contents: [
         "因为太喜欢你，所以看谁都像是情敌。",
         "申请成为你爱里的永久居民。",
-        "你很傻，你很笨，可我还是很羡慕你，因为你有我",
+        "今天超级超级想你!",
         "遇见你，就好像捡到了100斤的运气",
       ]},
     ],
