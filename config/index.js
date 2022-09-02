@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "5b5d70daed8017b901e3f4fcb73a3d8d",
 
     // 模板消息id
-    TEMPLATE_ID: "xkeAn_mO-YaOeiDL4v-xsXQ2C_vRdWNawUxo477OkDY",
+    TEMPLATE_ID: "d9dBp1Y2vGlASaM6T5MoYJ_GFQC-B35Dg3co6HGUteU",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "eEG--XgU1OOCmfk7QUSgUKxgDCXwqxQ6ZvITBVKKu2g",
@@ -69,9 +69,9 @@ export const config = {
       * */
     CUSTOMIZED_DATE_LIST: [
       // 在一起的日子
-      {"keyword": "love_day", date: "2021-07-10"},
+      {"keyword": "love_day", date: "2022-07-10"},
       // sakana日
-      // {"keyword": "sakana_day", date: "2022-01-06"},
+      {"keyword": "sakana_day", date: "2022-10-01"},
       // ... 
     ],
 
