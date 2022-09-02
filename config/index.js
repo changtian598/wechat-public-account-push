@@ -7,10 +7,10 @@ export const config = {
     APP_ID: "wxaf6786fe8cecc96e",
 
     // 公众号APP_SECRET
-    APP_SECRET: "d92fd57d9e07ac15f22eb67b88e03784",
+    APP_SECRET: "5b5d70daed8017b901e3f4fcb73a3d8d",
 
     // 模板消息id
-    TEMPLATE_ID: "NPo80xTlcv3VkbcnTd-oulO7Hu2VzLG6lymqU9w1X2A",
+    TEMPLATE_ID: "xkeAn_mO-YaOeiDL4v-xsXQ2C_vRdWNawUxo477OkDY",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "eEG--XgU1OOCmfk7QUSgUKxgDCXwqxQ6ZvITBVKKu2g",
