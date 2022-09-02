@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "5b5d70daed8017b901e3f4fcb73a3d8d",
 
     // 模板消息id
-    TEMPLATE_ID: "d9dBp1Y2vGlASaM6T5MoYJ_GFQC-B35Dg3co6HGUteU",
+    TEMPLATE_ID: "mgOCcTLCU5Q5_yby-hhMihtjbebjbk72ggFMdgFUhWw",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "eEG--XgU1OOCmfk7QUSgUKxgDCXwqxQ6ZvITBVKKu2g",
