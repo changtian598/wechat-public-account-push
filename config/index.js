@@ -24,8 +24,8 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '宝贝', id: "oCP2Z6LmDqXCMmq8JtmbYv3iO7mU"}
-    ],
+   //   {name: '宝贝', id: "oCP2Z6LmDqXCMmq8JtmbYv3iO7mU"}
+      {name: '自己',id: "oCP2Z6CB6IzDeRV0fnV-EMRmvo3I"}    ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
       {name: '自己',id: "oCP2Z6CB6IzDeRV0fnV-EMRmvo3I"}, 
